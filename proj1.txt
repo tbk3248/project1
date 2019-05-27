@@ -1,1 +1,3 @@
 project 1 TBD
+
+- will be adding more things during the project
